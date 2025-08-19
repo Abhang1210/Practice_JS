@@ -1,4 +1,4 @@
-let score = true
+/*let score = true
 
 console.log(typeof score);
 
@@ -22,3 +22,16 @@ console.log(loggedIn);
 
 let SomeNumber = String(33)
 console.log(typeof SomeNumber);
+*/
+// **********************************************OPERATIONS***************************************
+
+let value = 33
+let negvalue = -value
+// console.log(negvalue);
+
+let str1 ="hello"
+let str2 = "abhang"
+
+let str3 = (str1 +" "+ str2)
+
+console.log(str3);
